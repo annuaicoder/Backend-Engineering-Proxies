@@ -109,9 +109,6 @@ server {
     }
 }
 Squid as Forward Proxy
-bash
-Copy
-Edit
 # Example: Start Squid (on Ubuntu)
 sudo apt install squid
 sudo systemctl start squid
@@ -124,14 +121,8 @@ Use firewalls, rate limiting, and TLS to protect both proxy types.
 
 🖼️ Visual Diagrams
 Forward Proxy
-text
-Copy
-Edit
 [Client] ---> [Forward Proxy] ---> [Internet/Server]
 Reverse Proxy
-text
-Copy
-Edit
 [Client] ---> [Reverse Proxy] ---> [App Server]
                                   ---> [API Server]
                                   ---> [Static Server]
