@@ -6,4 +6,4 @@
 
 
 
-# Maintained by @annuaicoder / @codewithanas007 ( Yo
+# Maintained by @annuaicoder / @codewithanas007 ( You
